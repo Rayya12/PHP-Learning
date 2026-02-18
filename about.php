@@ -11,8 +11,8 @@ include("header.html")
     <title>Document</title>
 </head>
 <body>
-    This is the homepage <br>
-    Stuff about your homepage can go here <br>
+    This is the About Page <br>
+    Stuff about your About page can go here <br>
 </body>
 </html>
 
